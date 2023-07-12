@@ -26,7 +26,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    #twitter: Shino_satu
+    twitter: Shino_satu
     github: shinosatu
     #linkedIn: in/samarsault
     #dribbble: jekyll
